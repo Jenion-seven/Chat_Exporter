@@ -54,7 +54,7 @@ The core conversation extraction code itself is not inherently Mac-specific, so 
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/Jenion-seven/Chat_Exporter.git)>
 cd ChatExporter
 ```
 
