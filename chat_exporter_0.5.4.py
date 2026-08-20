@@ -590,7 +590,7 @@ def make_markdown(messages, mode, citation_lookup=None):
     for message in messages:
 
         if message["role"] == "user":
-            speaker = "Jennifer"
+            speaker = "User name"
         else:
             speaker = "ChatGPT"
 
